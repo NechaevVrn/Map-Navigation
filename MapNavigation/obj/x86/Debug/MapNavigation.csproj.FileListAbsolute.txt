@@ -1,0 +1,17 @@
+D:\1234.Net\bkp\MapNavigation\MapNavigation\bin\Debug\MapNavigation.exe
+D:\1234.Net\bkp\MapNavigation\MapNavigation\bin\Debug\MapNavigation.pdb
+D:\1234.Net\bkp\MapNavigation\MapNavigation\obj\x86\Debug\MapNavigation.Properties.Resources.resources
+D:\1234.Net\bkp\MapNavigation\MapNavigation\obj\x86\Debug\MapNavigation.csproj.GenerateResource.Cache
+D:\1234.Net\bkp\MapNavigation\MapNavigation\obj\x86\Debug\MapNavigation.exe
+D:\1234.Net\bkp\MapNavigation\MapNavigation\obj\x86\Debug\MapNavigation.pdb
+D:\1234.Net\bkp\MapNavigation\MapNavigation\obj\x86\Debug\MapNavigation.csprojResolveAssemblyReference.cache
+D:\1234.Net\bkp\MapNavigation\MapNavigation\bin\Debug\GMap.NET.Core.dll
+D:\1234.Net\bkp\MapNavigation\MapNavigation\bin\Debug\GMap.NET.WindowsForms.dll
+D:\1234.Net\bkp\MapNavigation\MapNavigation\bin\Debug\GMap.NET.WindowsPresentation.dll
+D:\1234.Net\bkp\MapNavigation\MapNavigation\bin\Debug\GMap.NET.Core.xml
+D:\1234.Net\bkp\MapNavigation\MapNavigation\bin\Debug\GMap.NET.WindowsForms.xml
+D:\1234.Net\bkp\MapNavigation\MapNavigation\bin\Debug\GMap.NET.WindowsPresentation.xml
+D:\1234.Net\bkp\MapNavigation\MapNavigation\obj\x86\Debug\MapNavigation.Getting_Started.Connect.resources
+D:\1234.Net\bkp\MapNavigation\MapNavigation\obj\x86\Debug\MapNavigation.MapsForm.resources
+D:\1234.Net\bkp\MapNavigation\MapNavigation\obj\x86\Debug\MapNavigation.Reg.resources
+D:\1234.Net\bkp\MapNavigation\MapNavigation\obj\x86\Debug\MapNavigation.Params.resources
